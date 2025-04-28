@@ -13,10 +13,16 @@
       
       <categories>
           
-          <category> 测试 </category>
+          <category> 测试分类 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 标签 </tag>
+            
+        </tags>
       
     </entry>
     
