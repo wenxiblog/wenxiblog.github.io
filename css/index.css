@@ -16289,6 +16289,12 @@ li.card-category-list-item {
 #vcomment textarea:focus {
   background-image: none;
 }
+#waline-wrap textarea {
+  background: url("ChKormR1Opg3DgJgrw00U0XC") 100% 100% no-repeat;
+}
+#waline-wrap textarea:focus {
+  background-image: none;
+}
 .fireworks {
   position: fixed;
   top: 0;
